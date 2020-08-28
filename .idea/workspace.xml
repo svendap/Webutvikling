@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06e33cd1-ff68-461b-9aea-368571a68c87" name="Default Changelist" comment="dds">
-      <change afterPath="$PROJECT_DIR$/artikkel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bokser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/innhold_vs_design.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semantikk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
+    <list default="true" id="06e33cd1-ff68-461b-9aea-368571a68c87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bokser.html" beforeDir="false" afterPath="$PROJECT_DIR$/box-modellen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stil.css" beforeDir="false" afterPath="$PROJECT_DIR$/stilark.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
       <updated>1598360820383</updated>
       <workItem from="1598360821427" duration="1548000" />
       <workItem from="1598440773144" duration="614000" />
-      <workItem from="1598625490631" duration="1388000" />
+      <workItem from="1598625490631" duration="2400000" />
     </task>
     <task id="LOCAL−00001" summary="s">
       <created>1598625881132</created>
@@ -61,7 +56,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1598625881132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="dds">
+      <created>1598626914972</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1598626914972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,13 +74,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="dds" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="536" y="88" key="CommitChangelistDialog2" timestamp="1598626842187">
+    <state x="536" y="88" key="CommitChangelistDialog2" timestamp="1598626914345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="536" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598626842187" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598625882917">
+    <state x="536" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598626914345" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598626920187">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598625882917" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598626920187" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598627040937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598627040937" />
   </component>
 </project>
