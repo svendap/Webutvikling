@@ -1,3 +1,49 @@
 body {
-    background-color: cadetblue;
+    margin: auto;
+    width: 1000px;
+    font-family: sans-serif;
+    background-color: rgba(231, 231, 197, 0.795);
+}
+
+nav, header, footer, aside, section {display:block;}
+
+
+nav {
+    width:998px;
+    height:40px;
+    background: rgb(248, 248, 225);
+    border:2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+
+nav ul {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+nav ul li {
+    display: inline-block;
+    cursor: pointer;
+    margin-right: 10px;
+    width: fit-content;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
+nav ul li:hover{
+    background-color: rgb(236, 236, 199);
+}
+
+nav ul li a {
+    display: block;
+    margin-right: 10px;
+    width: fit-content;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
 }
