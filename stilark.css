@@ -9,8 +9,8 @@ nav, header, footer, aside, section {display:block;}
 
 
 nav {
-    width:998px;
     height:40px;
+    width:1000px;
     background: rgb(248, 248, 225);
     border:2px solid rgb(0, 0, 0);
     border-radius: 10px;
@@ -38,7 +38,6 @@ nav ul li:hover{
 }
 
 nav ul li a {
-    display: block;
     margin-right: 10px;
     width: fit-content;
     font-size: 18px;
@@ -46,4 +45,15 @@ nav ul li a {
     text-align: center;
     text-decoration: none;
     color: #000;
+}
+
+footer{
+    clear: both;
+    width:1000px;
+    height: 110px;
+    background:rgb(248, 248, 225);
+    border:2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    color:#000;
 }
