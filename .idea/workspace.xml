@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="06e33cd1-ff68-461b-9aea-368571a68c87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artikkel.html" beforeDir="false" afterPath="$PROJECT_DIR$/artikkel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box-modellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/box-modellen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innhold_vs_design.html" beforeDir="false" afterPath="$PROJECT_DIR$/innhold_vs_design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semantikk.html" beforeDir="false" afterPath="$PROJECT_DIR$/semantikk.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stilark.css" beforeDir="false" afterPath="$PROJECT_DIR$/stilark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver.html" beforeDir="false" afterPath="$PROJECT_DIR$/webserver.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +53,8 @@
       <updated>1598360820383</updated>
       <workItem from="1598360821427" duration="1548000" />
       <workItem from="1598440773144" duration="614000" />
-      <workItem from="1598625490631" duration="5765000" />
+      <workItem from="1598625490631" duration="5785000" />
+      <workItem from="1598708716772" duration="426000" />
     </task>
     <task id="LOCAL−00001" summary="s">
       <created>1598625881132</created>
@@ -74,7 +80,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1598630068249</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="dds">
+      <created>1598644867842</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1598644867842</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,14 +98,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="dds" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="536" y="88" key="CommitChangelistDialog2" timestamp="1598630067742">
+    <state x="536" y="88" key="CommitChangelistDialog2" timestamp="1598644867330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="536" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598630067742" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598630069408">
+    <state x="536" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598644867330" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1598644869544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598630069408" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1768.952@0.0.1920.1040" timestamp="1598644869544" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598627040937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

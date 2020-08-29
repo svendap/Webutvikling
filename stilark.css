@@ -5,8 +5,6 @@ body {
     background-color: rgba(231, 231, 197, 0.795);
 }
 
-nav, header, footer, aside, section {display:block;}
-
 
 nav {
     height:40px;
