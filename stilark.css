@@ -22,13 +22,9 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    margin-right: 10px;
-    width: fit-content;
+    margin-right: 15px;
     font-size: 18px;
-    line-height: 40px;
     text-align: center;
-    text-decoration: none;
-    color: #000;
 }
 
 nav ul li a {
